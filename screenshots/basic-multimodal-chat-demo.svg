@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="720" viewBox="0 0 1400 720">
+  <rect width="1400" height="720" fill="#ffffff"/>
+  <text x="700" y="42" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#222">Basic Multimodal Chat</text>
+  <rect x="20" y="70" width="1360" height="500" rx="6" fill="#fafafa" stroke="#e5e7eb"/>
+  <rect x="588" y="98" width="692" height="260" rx="4" fill="#fff7ed" stroke="#fed7aa"/>
+  <rect x="860" y="116" width="230" height="150" rx="4" fill="#d6a36b"/>
+  <circle cx="965" cy="190" r="74" fill="#f59e0b" opacity="0.35"/>
+  <rect x="905" y="150" width="55" height="38" rx="6" fill="#fb923c"/>
+  <rect x="975" y="156" width="50" height="34" rx="6" fill="#facc15"/>
+  <rect x="918" y="204" width="46" height="36" rx="6" fill="#a16207"/>
+  <rect x="990" y="208" width="48" height="30" rx="6" fill="#ea580c"/>
+  <line x1="1035" y1="148" x2="1110" y2="106" stroke="#9ca3af" stroke-width="6" stroke-linecap="round"/>
+  <text x="604" y="336" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#111827">What recipe is this?</text>
+  <rect x="36" y="606" width="1328" height="58" rx="6" fill="#ffffff" stroke="#e5e7eb"/>
+  <text x="55" y="642" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#222">The dish appears to be a hearty meat stew with potatoes, carrots, and vegetables simmered in broth.</text>
+  <rect x="20" y="590" width="1360" height="108" rx="6" fill="none" stroke="#f3f4f6"/>
+  <text x="44" y="84" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#6b7280">Chatbot</text>
+  <text x="700" y="694" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#9ca3af">Use via API • Built with Gradio • Settings</text>
+</svg>
