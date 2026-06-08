@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="720" viewBox="0 0 1400 720">
+  <rect width="1400" height="720" fill="#ffffff"/>
+  <text x="700" y="42" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#222">Advanced Multimodal Chat</text>
+  <rect x="20" y="70" width="1360" height="305" rx="6" fill="#fafafa" stroke="#e5e7eb"/>
+  <rect x="50" y="94" width="1300" height="76" rx="5" fill="#fff7ed" stroke="#fed7aa"/>
+  <text x="70" y="126" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#111827">Vegan: hearty meat stew with potatoes, carrots, and vegetables simmered in flavorful broth.</text>
+  <rect x="50" y="210" width="1120" height="150" rx="5" fill="#ffffff" stroke="#e5e7eb"/>
+  <text x="70" y="244" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#111827">A vegan version of a hearty meat stew can be just as satisfying and flavorful.</text>
+  <text x="70" y="288" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#111827">Vegan Hearty Stew Recipe</text>
+  <text x="70" y="324" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827">Ingredients:</text>
+  <text x="92" y="352" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#111827">• Protein: chickpeas or firm tofu</text>
+  <rect x="20" y="390" width="1360" height="70" rx="6" fill="#ffffff" stroke="#e5e7eb"/>
+  <text x="55" y="432" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#374151">⌁</text>
+  <rect x="20" y="482" width="1360" height="190" rx="6" fill="#ffffff" stroke="#e5e7eb"/>
+  <text x="48" y="516" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#374151">OpenRouter settings</text>
+  <text x="48" y="560" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#6b7280">OpenRouter API Key</text>
+  <rect x="50" y="572" width="1280" height="34" rx="4" fill="#ffffff" stroke="#d1d5db"/>
+  <text x="70" y="595" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#111827">••••••••••••••••••••••••••••••••••••••••••••</text>
+  <text x="48" y="636" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#6b7280">Model</text>
+  <rect x="50" y="650" width="1280" height="34" rx="4" fill="#ffffff" stroke="#d1d5db"/>
+  <text x="70" y="672" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#111827">openai/gpt-4o-mini</text>
+  <text x="700" y="704" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#9ca3af">Use via API • Built with Gradio • Settings</text>
+</svg>
