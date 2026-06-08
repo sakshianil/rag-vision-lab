@@ -4,6 +4,18 @@ A polished Gradio + OpenRouter project that demonstrates **basic** and **advance
 
 > Current scope: these scripts are a strong multimodal chat foundation for RAG-style assistants. The next step is to add document ingestion, embeddings, a vector store, and retrieved-context injection.
 
+## Demo proof
+
+The screenshots below show both apps running successfully with image input, streamed responses, and OpenRouter settings.
+
+### Basic multimodal chat
+
+![Basic multimodal chat demo](screenshots/basic-multimodal-chat-demo.svg)
+
+### Advanced multimodal chat
+
+![Advanced multimodal chat demo](screenshots/advanced-multimodal-chat-demo.svg)
+
 ## Why this project matters
 
 This repository is useful for showcasing the transition from a single-file prototype to a cleaner advanced architecture:
@@ -25,6 +37,9 @@ rag-vision-lab/
 │   └── multimodal_messages.py
 ├── docs/
 │   └── rag_upgrade_plan.md
+├── screenshots/
+│   ├── basic-multimodal-chat-demo.svg
+│   └── advanced-multimodal-chat-demo.svg
 ├── .env.example
 ├── .gitignore
 ├── requirements.txt
